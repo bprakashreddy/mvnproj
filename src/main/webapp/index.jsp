@@ -6,7 +6,7 @@
         <title>Hello Java EE Continuous Delivery!</title>
     </head>
     <body>
-        <h1>auto deployment from Devops</h1>
+        <h1>auto deployment! from Devops</h1>
         <h1>Good day DEVOPS.....</h1>
 
 
