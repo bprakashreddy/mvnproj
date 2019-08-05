@@ -7,7 +7,7 @@
     </head>
     <body>
         <h1>auto deployment! from Devops</h1>
-        <h1>Good day DEVOPS...</h1>
+        <h1>Good day DEVOPS-deployment</h1>
 
 
 <table width="40%" bgcolor="yellow" align="center" border="1">
